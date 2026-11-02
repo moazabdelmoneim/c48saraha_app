@@ -1,0 +1,16 @@
+// multer upload single array fields 
+
+
+///1. recap multer // done 
+
+// ================= cloudinray
+
+// intro to cloudinray // done 
+
+//simple upload  + upload profile pic + // done 
+
+// singup
+
+// update profile pic 
+
+// delete profile pic 
